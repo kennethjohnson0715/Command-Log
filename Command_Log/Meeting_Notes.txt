@@ -1,0 +1,27 @@
+printed out to a txt file
+
+line[1] =   to 2022-02-02T18:37:48Z
+
+2022-02-02T18:36:21Z RADIO_DOWNLINK
+
+
+
+
+ppl at BTC
+
+if see 7947 read the next 2 bytes
+
+if statement to grab bytes
+
+check out pythons byte functions
+
+
+already XB1
+
+
+recive the new query of last acc_cmd_bytes query with 5 bytes instead of two
+
+recognize RADIO_RAW command; and read further bytes to 
+
+
+

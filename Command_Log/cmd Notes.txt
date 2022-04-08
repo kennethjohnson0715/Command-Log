@@ -1,0 +1,13 @@
+[x] Generate new last_acc_cmd_bytes query with 5 bytes instead of two
+[x] Re-organize output to the following format: "2022-02-02T18:36:21Z RADIO_DOWNLINK"
+[x] Write output to text file
+[] Add logic to recognize RADIO_RAW command; read 6th byte to enumerate radio command
+[] Add logic to recognize THURSTER_DIRECT_CMD command; read 3rd byte to enumerate thruster command
+[x] Validate all commands enumerated in tlm_executed_cmd.yaml against expected values in cmd_vE.yaml 
+
+
+[x] Dec 31,11 --> Hex 1F,0B --> 1f0B --> Dec 7947
+[x] Dec 36,1  --> Hex 24,01 --> 2401 --> Dec 9217
+
+[] using a for loop with range as rows in the csv file and when you do find both columns 
+to match you will have the row number.
